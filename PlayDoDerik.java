@@ -43,7 +43,7 @@ public class PlayDoDerik implements IPlay {
 	@Override
 	public String fabricante() {
 		// TODO Auto-generated method stub
-		return null;
+		return "Derik exemplo:";
 	}
 
 	
